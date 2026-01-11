@@ -2,6 +2,19 @@
 
 ## General
 
+### Context7
+```md
+---
+applyTo: '**'
+---
+* Always use Context7 MCP when I need library/API documentation,
+code generation, setup or configuration steps without me having
+to explicitly ask.
+* When I ask for code snippets, ensure they are complete and
+functional, including the minimum code needed to run them.
+* No fluff, be simple
+```
+
 ### Text
 ```md
 ---
