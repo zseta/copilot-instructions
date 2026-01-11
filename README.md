@@ -3,6 +3,7 @@
 ## General
 
 ### Context7
+https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp
 ```md
 ---
 applyTo: '**'
