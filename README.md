@@ -10,6 +10,7 @@ AlpineJS example:
 ```md
 in this session use context7 /websites/alpinejs_dev for all responses
 ```
+Go to https://context7.com for docs link. [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp) is needed.
 
 ### `.github/copilot-instructions.md`
 Use [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp).
