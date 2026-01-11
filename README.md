@@ -7,8 +7,9 @@
 ---
 applyTo: '**/*.md'
 ---
-No fluff, no emojis. Simple, short sentences. Casual tone. 
-Avoid capitalizing every word.
+No fluff, no emojis.
+No emdash. Simple, short sentences.
+Casual tone. For headings use sentence case.
 ```
 
 ## Agentic
