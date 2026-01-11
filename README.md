@@ -5,19 +5,15 @@ Otherwise, you can just copy-paste.
 
 ## General
 
-### Context7
-https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp
+## `.github/copilot-instructions.md`
+Use [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp).
 ```md
----
-applyTo: '**'
----
-* Always use Context7 MCP when I need library/API documentation,
-code generation, setup or configuration steps without me having
-to explicitly ask.
-* When I ask for code snippets, ensure they are complete and
-functional, including the minimum code needed to run them.
+* Always use Context7 MCP when I need library/API documentation, code generation, setup or configuration steps without me having to explicitly ask.
+* When I ask for code snippets, ensure they are complete and functional, including the minimum code needed to run them.
 * No fluff, be simple
+
 ```
+
 
 ### Text
 ```md
