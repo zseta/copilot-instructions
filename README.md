@@ -1,4 +1,7 @@
 # My list of copilot instructions & AI prompts
+Within a VS Code project these should go in the `.github/instructions/copilot-instructions.md` file.
+
+Otherwise, you can just copy-paste.
 
 ## General
 
