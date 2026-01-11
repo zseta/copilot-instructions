@@ -5,7 +5,6 @@
 ---
 applyTo: '**/*.md'
 ---
-* Make sure content is no fluff, no emojis.
-* Simple, short sentences. Casual tone.
-* Avoid capitalizing every word.
+No fluff, no emojis. Simple, short sentences. Casual tone. 
+Avoid capitalizing every word.
 ```
