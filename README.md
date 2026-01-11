@@ -5,7 +5,13 @@ Otherwise, you can just copy-paste.
 
 ## General
 
-## `.github/copilot-instructions.md`
+### Chat session for docs with Context7
+AlpineJS example:
+```md
+in this session use context7 /websites/alpinejs_dev for all responses
+```
+
+### `.github/copilot-instructions.md`
 Use [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Upstash.context7-mcp).
 ```md
 * Always use Context7 MCP when I need library/API documentation, code generation, setup or configuration steps without me having to explicitly ask.
