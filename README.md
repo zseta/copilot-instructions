@@ -28,8 +28,13 @@ Use [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Up
 applyTo: '**/*.md'
 ---
 No fluff, no emojis.
-No emdash. Simple, short sentences.
-Casual tone. For headings use sentence case.
+No emdash. Simple sentences.
+Casual tone.
+```
+
+Optional:
+```
+For headings use sentence case. Short sentences.
 ```
 
 ## Agentic
