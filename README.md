@@ -3,7 +3,7 @@ Within a VS Code project these should go in the `.github/instructions/copilot-in
 
 Otherwise, you can just copy-paste.
 
-## General
+## Coding
 
 ### Chat session for docs with Context7
 AlpineJS example:
@@ -22,7 +22,7 @@ Use [Context7 MCP Server](https://marketplace.visualstudio.com/items?itemName=Up
 ```
 
 
-### Text
+## Text
 ```md
 ---
 applyTo: '**/*.md'
@@ -38,6 +38,17 @@ For headings use sentence case. Short sentences.
 ```
 
 ## Agentic
+
+### Tutorials / guides / docs
+```md
+Edit this markdown file. Check grammar. Finish sentences where neccessary.
+Simplify complex phrases. No fluff.
+For headings use sentence case. Add links where it's helpful.
+Use "you" instead if "we" or "I".
+For technical keywords, wrap it in `backticks`.
+For code snippets, add the correct syntax highlight for the language.
+```
+
 
 ### Technical content idea
 ```md
