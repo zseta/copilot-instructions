@@ -71,6 +71,16 @@ build out a starter fastapi application in this folder.
 To install stuff use uv add <package-name>.
 Add a src/templates/ and src/static/ folder to FastAPI. Reference both folder relative to the main.py (which should also be in src folder) file.
 Add index.html in templates and this html should include htmx alpinejs from CDN (use @latest version for both). Add tailwind from CDN.
+Add static/js/app.js file with the following content:
+function exampleApp() {
+    return {
+        count: 0,
+        init() {
+            console.log('App initialized');
+        },
+    };
+}
+Then reference this object in html using `x-data="exampleApp()`. And also include the js file in html of course.
 Add a readme that contains minimal instructions how to install dependencies with `uv sync` and use `uv run src/main.py` as run instruction.
 When done, activate the env with source .venv/bin/activate and run `python src/main.py` from the root project folder.
 ```
