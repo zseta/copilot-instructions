@@ -60,3 +60,10 @@ No emdash. Simple, short sentences. Casual tone. For headings use sentence case.
 Markdown should include metadata: relevant tags (max 3), status, today's date.
 Create the file in ideas folder.
 ```
+
+## Random
+
+### Starter FastAPI + AlpineJS + Tailwind
+```
+build out a starter fastapi application. also have a templates folder with index.html in this add htmx alpinejs tailwind from CDN
+```
