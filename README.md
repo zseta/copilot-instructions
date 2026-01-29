@@ -70,7 +70,7 @@ build out a starter fastapi application in this folder.
 
 To install stuff use uv add <package-name>.
 Add a src/templates/ and src/static/ folder to FastAPI. Reference both folder relative to the main.py (which should also be in src folder) file.
-Add index.html in templates and this html should include htmx alpinejs from CDN (use @latest version for both). Add tailwind from CDN.
+Add index.html in templates and this html should include htmx alpinejs from CDN (use @latest version for both). Add tailwind from CDN with daisy ui plugin.
 Add static/js/app.js file with the following content:
 function exampleApp() {
     return {
