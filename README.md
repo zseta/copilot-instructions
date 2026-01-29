@@ -65,5 +65,10 @@ Create the file in ideas folder.
 
 ### Starter FastAPI + AlpineJS + Tailwind
 ```
-Run `uv init` in the current folder. Create a src/ folder and build out a starter fastapi application in this folder. Have a templates folder with index.html in this add htmx alpinejs tailwind from CDN (use @latest version for each). To install stuff use uv add <package-name>. Add a static/ folder to FastAPI. When done, activate the env with source .venv/bin/activate and run the uvicorn server
+Run `uv init` in the current folder. Create a src/ folder and
+build out a starter fastapi application in this folder. Have a
+templates folder with index.html in this add htmx alpinejs tailwind
+from CDN (use @latest version for each). To install stuff
+use uv add <package-name>. Add a static/ folder to FastAPI.
+When done, activate the env with source .venv/bin/activate and run the uvicorn server
 ```
