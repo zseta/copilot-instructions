@@ -81,6 +81,7 @@ function exampleApp() {
     };
 }
 Then reference this object in html using `x-data="exampleApp()`. And also include the js file in html of course.
+Index.html should have clean, simple, maintainable code. Alpinejs variables should live in js/app.js
 Add a readme that contains minimal instructions how to install dependencies with `uv sync` and use `uv run src/main.py` as run instruction.
 When done, activate the env with source .venv/bin/activate and run `python src/main.py` from the root project folder.
 ```
