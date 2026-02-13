@@ -1,7 +1,17 @@
-# My list of copilot instructions & AI prompts
-Within a VS Code project these should go in the `.github/instructions/copilot-instructions.md` file.
+# AI tools
 
-Otherwise, you can just copy-paste.
+
+## Context 7 docs MCPs
+```
+ScyllaDB Cloud API
+/websites/cloud_scylladb_stable
+
+Instruqt Lab
+/websites/labs_instruqt
+
+CQL
+/websites/datastax_en_cql-oss_3_1_cql_cql_reference
+```
 
 ## Coding
 
