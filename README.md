@@ -1,5 +1,9 @@
 # AI tools
 
+## Break up large skill markdown into smaller files to minimize context usage
+```
+look at this file and create separate markdown files for each h2 section, cut the content from here and paste it into that new file, file name should be short but descriptive
+```
 
 ## Context 7 docs MCPs
 ```
